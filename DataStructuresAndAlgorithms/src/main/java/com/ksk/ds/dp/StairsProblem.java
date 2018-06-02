@@ -5,6 +5,7 @@ import java.time.Instant;
 
 public class StairsProblem {
 
+	
 	public static void main(String[] args) {
 
 		int steps = 40;
